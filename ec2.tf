@@ -6,5 +6,5 @@ resource "aws_instance" "jjtech" {
     Name = "state-demo"
   }
 }
-
+#test2
 #test
